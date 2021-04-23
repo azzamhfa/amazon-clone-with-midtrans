@@ -7,7 +7,9 @@
 </p>
 
 > This is a Clone Amazon  Project using React JS and I'm using Midtrans as Payment Gateway.
+
 > You can get the Midtrans Backend API for this Project : https://github.com/azzamhfa/backend-ecomm-midTrans
+
 > I Got this Clone Project from : https://www.youtube.com/watch?v=0kiykrN9_Ng&list=PL-J2q3Ga50oNQP__onO64kAHX_z0BdLv6&ab_channel=CleverProgrammer
 
 ## Install
