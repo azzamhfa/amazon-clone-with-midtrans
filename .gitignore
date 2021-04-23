@@ -7,7 +7,8 @@
 
 # testing
 /coverage
-
+/api
+/apiMidTrans
 # production
 /build
 
